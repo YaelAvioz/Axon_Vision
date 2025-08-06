@@ -6,11 +6,13 @@ A real - time video analytics system built in a pipeline architecture consisting
 - **Detector** - Detects motion using OpenCV.
 - **Presenter** - Displays the video frames with detection rectangles, timestamp, and blurring over detected regions.
 
----
+
 
 ## How to Run
 
 1. Install dependencies:
+(Make sure you’re using Python 3.8 or higher)
+
    ```bash
    pip3 install -r requirements.txt
 
