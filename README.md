@@ -21,7 +21,7 @@ A real - time video analytics system built in a pipeline architecture consisting
     python3 run_pipeline.py path/to/your/video.mp4
     ```
     
-## ✅ Testing
+## Test the code
 
 ```bash
 python3 -m pytest tests/
