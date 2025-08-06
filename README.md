@@ -13,16 +13,16 @@ A real - time video analytics system built in a pipeline architecture consisting
 
    ```bash
    pip3 install -r requirements.txt
-   ````
+   ```
    
 2. Run the pipeline:
 
     ```bash
     python3 run_pipeline.py path/to/your/video.mp4
-    ````
+    ```
     
-## Test the code
+## ✅ Testing
 
-    ```bash
-    python3 -m pytest tests/
-   ````
+```bash
+python3 -m pytest tests/
+```
